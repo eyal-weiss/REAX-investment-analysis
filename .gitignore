@@ -1,0 +1,8 @@
+# Source PDFs (too large for GitHub, proprietary IR materials)
+*.pdf
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Claude config
+.claude/
