@@ -1,5 +1,8 @@
 # Source PDFs (too large for GitHub, proprietary IR materials)
-*.pdf
+**/2025-Financial-Statements.pdf
+**/4Q-2025-IR-Presentation.pdf
+
+# Generated thesis PDFs are tracked (not ignored)
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
